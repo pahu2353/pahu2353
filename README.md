@@ -1,6 +1,6 @@
 Hi! 👋
 
-My name is Patrick — I'm a Software Engineering student at the University of Waterloo. I'm currently working on distributed systems at [Amazon Web Services](https://aws.amazon.com/), and I previously worked on puzzles on the backend product team at [Chess.com](https://www.chess.com/). Feel free to checkout my [website](https://www.patrickhuang.co/) and reach out; I'd love to chat!
+My name is Patrick — I'm a Software Engineering student at the University of Waterloo. I previously worked on distributed systems at [Amazon Web Services](https://aws.amazon.com/) and puzzles on the backend product team at [Chess.com](https://www.chess.com/). Feel free to checkout my [website](https://www.patrickhuang.co/) and reach out; I'd love to chat!
 
 
 
